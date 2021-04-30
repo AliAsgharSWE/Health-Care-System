@@ -24,3 +24,5 @@
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
+
+// Minor tweak bfc0063f-4faa-4cf6-86c1-79e6b0ff7b09
