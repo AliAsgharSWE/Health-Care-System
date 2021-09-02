@@ -1,3 +1,5 @@
 {
   "extends": "next/core-web-vitals"
 }
+
+// Minor tweak bf66f970-7500-4e6d-b6ae-c1c47d8b96fa
