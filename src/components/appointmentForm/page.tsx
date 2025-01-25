@@ -64,7 +64,7 @@ const AppointmentForm: React.FC = () => {
 
   const form = useForm<AppointmentFormValues>({
     defaultValues: {
-      id:""
+      id:"",
       dr_name: "",
       reason: "",
       additionalComments: "",
